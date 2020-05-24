@@ -8,7 +8,7 @@
 
 <h3>Site Map</h3>
 
-<ul><a href="">HackTheBox WalkThrough<a></ol>
+<ul><a href="">HackTheBox WalkThrough</a></ol>
 <ol><a href="">Penetration Testing tools & Techniques</a></ol>
 <ol><a href="">Security articles</a></ol>
 

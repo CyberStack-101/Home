@@ -10,7 +10,7 @@
 
 </body>
 
-<ul><a href="HTB Writeups/HackTheBox Wlakthrough">HackTheBox WalkThrough</a></ul>
+<ul><a href="HTB Writeups/HackTheBox Walkthrough">HackTheBox WalkThrough</a></ul>
 <ul><a href="">Penetration Testing tools & Techniques</a></ul>
 <ul><a href="">Security articles</a></ul>
 

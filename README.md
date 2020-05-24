@@ -7,6 +7,6 @@
 <p>In this Site, you can read my HacktheBox Walkthroughs, useful tools and techniques for Penetration testing and exploitation concepts.
 </p>
 
-<h4>Please wirte your suggestions or comments <a href="https://twitter.com/Vignesh_Twits">@Vignesh_Twits</a></h4>
+<h4>Please write your suggestions or comments <a href="https://twitter.com/Vignesh_Twits">@Vignesh_Twits</a></h4>
 </body>
  

@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-hacker
+gem "github-pages", group: :jekyll_plugins
+title: Welcome to CyberStack-101
+description: Place to Explore Cyber Security

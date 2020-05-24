@@ -1,6 +1,6 @@
-<header>
+<head>
 	<h1>HacktheBox Walkthroughs</h1>
-</header>
+</head>
 <body>
 	<ul><a href="">Lame</a></ul>
 	<ul><a href="">Shocker</a></ul>

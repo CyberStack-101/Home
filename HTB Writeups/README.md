@@ -10,4 +10,4 @@
 
 </body>
 
-<footer><h6><left>Home</left></h6></footer>
+<footer><h6><left><a href="">Home</a></left></h6></footer>

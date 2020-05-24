@@ -2,7 +2,8 @@
 <h1>Welcome to Cyber Stack-101!</h1>
 </head>
 <body>
-<p>Hello Friend!.. Thank you for visiting my Page.
-In this Site, you can find my HacktheBox Walkthroughs, Penetration testing steps and concepts and the useful tools and tcehniques for exploitation..
+<h2>Hello Friend!.. Thank you for visiting my Page.</h2>
+
+<p>In this Site, you can read my HacktheBox Walkthroughs, useful tools and techniques for Penetration testing and exploitation concepts.
 </p></body>
  

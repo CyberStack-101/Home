@@ -10,4 +10,4 @@
 
 </body>
 
-<footer><h6><center><a href="https://github.com/CyberStack101/CyberStack101.github.io">Home</a></center></h6></footer>
+<footer><h6><center><a href="https://github.com/CyberStack101/CyberStack101.github.io">Return</a></center></h6></footer>

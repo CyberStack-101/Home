@@ -7,12 +7,15 @@
 <p>In this Site, you can read my HacktheBox Walkthroughs, useful tools and techniques for Penetration testing and exploitation concepts.</p>
 
 <h3>Site Map</h3>
-<ol><a href="">HackTheBox WalkThrough<a></ol>
+
+<ul><a href="">HackTheBox WalkThrough<a></ol>
 <ol><a href="">Penetration Testing tools & Techniques</a></ol>
 <ol><a href="">Security articles</a></ol>
 
-
-<h4>Please write your suggestions or comments <a href="https://twitter.com/Vignesh_Twits">@Vignesh_Twits</a></h4>
-
 </body>
+
+<footer>
+<h4>Please write your suggestions or comments <a href="https://twitter.com/Vignesh_Twits">@Vignesh_Twits</a></h4>
+</footer>
+
  

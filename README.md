@@ -8,11 +8,11 @@
 
 <h3>Site Map</h3>
 
-<ul><a href="">HackTheBox WalkThrough</a></ol>
-<ol><a href="">Penetration Testing tools & Techniques</a></ol>
-<ol><a href="">Security articles</a></ol>
-
 </body>
+
+<ul><a href="">HackTheBox WalkThrough</a></ul>
+<ul><a href="">Penetration Testing tools & Techniques</a></ul>
+<ul><a href="">Security articles</a></ul>
 
 <footer>
 <h4>Please write your suggestions or comments <a href="https://twitter.com/Vignesh_Twits">@Vignesh_Twits</a></h4>

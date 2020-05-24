@@ -3,6 +3,6 @@
 </head>
 <body>
 <p>Hello Friend!.. Thank you for visiting my Page.
-In this Site, you can find my HacktheBox Walkthroughs, Penetration testing steps and concepts and the useful tools and tcehniques for exploitation.
+In this Site, you can find my HacktheBox Walkthroughs, Penetration testing steps and concepts and the useful tools and tcehniques for exploitation..
 </p></body>
  
